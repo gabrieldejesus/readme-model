@@ -1,15 +1,15 @@
 # Nome do produto
-Descrição curta sobre o que seu projeto faz.
+📜 Descrição curta sobre o que seu projeto faz.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+💡 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
 ![](social-preview.png)
 
-## Instalação
+## 🛠 Instalação
 
 OS X & Linux:
 
@@ -23,13 +23,13 @@ Windows:
 edit autoexec.bat
 ```
 
-## Exemplo de uso
+## 📈 Exemplo de uso
 
 Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
 
 _Para mais exemplos, consulte a [Wiki][wiki]._ 
 
-## Configuração para Desenvolvimento
+## 💻 Configuração para Desenvolvimento
 
 Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
 
@@ -38,7 +38,7 @@ make install
 npm test
 ```
 
-## Histórico de lançamentos
+## 🗃 Histórico de lançamentos
 
 * 0.2.1
     * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
@@ -53,7 +53,7 @@ npm test
 * 0.0.1
     * Trabalho em andamento
 
-## Meta
+## 📋 Meta
 
 Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
 
@@ -61,7 +61,7 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
 [https://github.com/yourname/github-link](https://github.com/othonalberto/)
 
-## Contributing
+## 🚀 Contributing
 
 1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
