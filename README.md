@@ -59,11 +59,11 @@ Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
 
 Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
+[https://github.com/seuprojeto/github-link](https://github.com/devgabrieldejesus/)
 
 ## 🚀 Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/seunome/seuprojeto/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
