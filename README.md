@@ -61,7 +61,7 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
 [https://github.com/seuprojeto/github-link](https://github.com/devgabrieldejesus/)
 
-## 🚀 Contributing
+## 🚀 Contribuição
 
 1. Faça o _fork_ do projeto (<https://github.com/seunome/seuprojeto/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
