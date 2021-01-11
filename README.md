@@ -2,7 +2,9 @@
 
 📜 Descrição curta sobre o que seu projeto faz.
 
-![](social-preview.png)
+<p align="center">
+<img src="https://i.ibb.co/cksr7Sb/web-preview.png" alt="Gabriel de Jesus" border="0">
+</p>
 
 <p align="center">
   <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=4A90E2&labelColor=222222" />
